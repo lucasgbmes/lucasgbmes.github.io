@@ -1,8 +1,8 @@
 /* PERSONALIZE AQUI — substitua os campos vazios antes de publicar. */
 const PROFILE = {
   linkedin: 'https://www.linkedin.com/in/lucas-gomes-borges/',
-  github: '', // Exemplo: 'https://github.com/seu-usuario'
-  email: '',  // Exemplo: 'contato@seudominio.com'
+  github: 'https://github.com/lucasgbmes', // Exemplo: 'https://github.com/username'
+  email: 'borges.lucasgetb@gmail.com',  // Exemplo: 'corpo.email@dominio.com'
 };
 
 for (const type of ['linkedin', 'github', 'email']) {
